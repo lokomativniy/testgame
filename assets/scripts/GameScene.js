@@ -357,7 +357,6 @@ class GameScene extends Phaser.Scene {
       duration: 250,
     });
     this.topBar = this.add.sprite(300, 30, "topBar").setScale(0);
-    this.getDressSprite();
 
     this.tweens.add({
       targets: this.cursorHand,
@@ -365,7 +364,7 @@ class GameScene extends Phaser.Scene {
       depth: 3,
     });
     this.timedEvent3 = this.time.delayedCall(
-      2000,
+      200,
       this.onEventTutorial,
       [],
       this
@@ -375,6 +374,7 @@ class GameScene extends Phaser.Scene {
   //////////////   onEventTutorial  /////////////
 
   onEventTutorial() {
+    this.getDressSprite();
     this.choosenPinkDress();
     this.choosenShortsDress();
   }
