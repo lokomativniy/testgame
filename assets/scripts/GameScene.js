@@ -42,7 +42,7 @@ class GameScene extends Phaser.Scene {
     this.load.image("shortsDressHover", "assets/sprites/shortsDressHover.png");
     this.load.image("pinkDressHover", "assets/sprites/pinkDressHover.png");
     this.load.image("blueBagHover", "assets/sprites/bluebagHover.png");
-    this.load.image("braunBagHover", "assets/sprites/braunbaghover.png");
+    this.load.image("braunBagHover", "assets/sprites/braunHover.png");
     this.load.image("necklaceHover", "assets/sprites/necklaceHover.png");
     this.load.image(
       "choperSpriteHover",
