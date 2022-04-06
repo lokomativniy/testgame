@@ -384,7 +384,7 @@ class GameScene extends Phaser.Scene {
   getDressSprite() {
     this.showCursorTimer();
     this.pinkDressSprite = this.add
-      .sprite(150, 750, "pinkDressSprite", 2)
+      .sprite(150, 750, "pinkDressSprite")
       .setScale(0.5)
       .setInteractive();
     this.pinkDressSprite.on("pointerover", function () {
@@ -394,7 +394,7 @@ class GameScene extends Phaser.Scene {
       this.setFrame(2);
     });
     this.shortsDressSprite = this.add
-      .sprite(450, 750, "shortsDressSprite", 2)
+      .sprite(450, 750, "shortsDressSprite")
       .setScale(0.5)
       .setInteractive();
     this.shortsDressSprite.on("pointerover", function () {
@@ -435,7 +435,7 @@ class GameScene extends Phaser.Scene {
       this.pinkDressSprite.destroy();
       this.shortsDressSprite.destroy();
       this.pinkDressSprite2 = this.add
-        .sprite(150, 750, "pinkDressHover", 2)
+        .sprite(150, 750, "pinkDressHover")
         .setScale(0.95);
       this.tweens.add({
         targets: this.pinkDressSprite2,
@@ -459,7 +459,7 @@ class GameScene extends Phaser.Scene {
       this.shortsDressSprite.destroy();
       this.pinkDressSprite.destroy();
       this.shortsDressSprite2 = this.add
-        .sprite(450, 750, "shortsDressHover", 2)
+        .sprite(450, 750, "shortsDressHover")
         .setScale(0.95);
       this.tweens.add({
         targets: this.shortsDressSprite,
@@ -478,7 +478,7 @@ class GameScene extends Phaser.Scene {
   getBagsSprite() {
     this.showCursorTimer();
     this.braunBagSprite = this.add
-      .sprite(450, 750, "braunBagSprite", "bluebag1")
+      .sprite(450, 750, "braunBagSprite")
       .setScale(0)
       .setInteractive();
     this.braunBagSprite.on("pointerover", function () {
@@ -488,7 +488,7 @@ class GameScene extends Phaser.Scene {
       this.setFrame(2);
     });
     this.blueBagSprite = this.add
-      .sprite(150, 750, "blueBagSprite", "braunbag1")
+      .sprite(150, 750, "blueBagSprite")
       .setScale(0)
       .setInteractive();
     this.blueBagSprite.on("pointerover", function () {
@@ -1100,49 +1100,6 @@ class GameScene extends Phaser.Scene {
       repeat: -1,
     });
   }
-
-  // resize(width, height) {
-  //   this.background.height = height;
-  //   this.background.width = width;
-  // }
-  // scaleSprite(
-  //   sprite,
-  //   availableSpaceWidth,
-  //   availableSpaceHeight,
-  //   padding,
-  //   scaleMultiplier
-  // ) {
-  //   this.scale = this.getSpriteScale(
-  //     sprite._frame.width,
-  //     sprite._frame.height,
-  //     availableSpaceWidth,
-  //     availableSpaceHeight,
-  //     padding
-  //   );
-  //   sprite.scale.x = scale * scaleMultiplier;
-  //   sprite.scale.y = scale * scaleMultiplier;
-  // }
-  // getSpriteScale(
-  //   spriteWidth,
-  //   spriteHeight,
-  //   availableSpaceWidth,
-  //   availableSpaceHeight,
-  //   minPadding
-  // ) {
-  //   this.ratio = 1;
-  //   this.currentDevicePixelRatio = window.devicePixelRatio;
-
-  //   this.widthRatio =
-  //     (spriteWidth * currentDevicePixelRatio + 2 * minPadding) /
-  //     availableSpaceWidth;
-  //   this.heightRatio =
-  //     (spriteHeight * currentDevicePixelRatio + 2 * minPadding) /
-  //     availableSpaceHeight;
-  //   if (widthRatio > 1 || heightRatio > 1) {
-  //     ratio = 1 / Math.max(widthRatio, heightRatio);
-  //   }
-  //   return ratio * currentDevicePixelRatio;
-  // }
 
   update() {
     // this.cursorHand.x = game.input.mousePointer.x;
