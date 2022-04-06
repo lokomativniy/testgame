@@ -70,7 +70,10 @@ class GameScene extends Phaser.Scene {
     this.load.spritesheet(
       "braunBagSprite",
       "assets/sprites/braunBagSprite.png",
-      { frameWidth: 250, frameHeight: 276 }
+      {
+        frameWidth: 250,
+        frameHeight: 276,
+      }
     );
     this.load.spritesheet("blueBagSprite", "assets/sprites/blueBagSprite.png", {
       frameWidth: 250,
