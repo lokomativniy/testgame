@@ -462,7 +462,7 @@ class GameScene extends Phaser.Scene {
         .sprite(450, 750, "shortsDressHover")
         .setScale(0.95);
       this.tweens.add({
-        targets: this.shortsDressSprite,
+        targets: this.shortsDressSprite2,
         scale: 0.949,
         duration: 1200,
         onComplete: () => {
