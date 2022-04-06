@@ -1,0 +1,29 @@
+{
+  "frames": [
+    {
+      "filename": "braunbag1",
+      "frame": { "x": 0, "y": 0, "w": 250, "h": 276 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 250, "h": 276 },
+      "sourceSize": { "w": 250, "h": 276 }
+    },
+    {
+      "filename": "braunbag2",
+      "frame": { "x": 0, "y": 276, "w": 250, "h": 276 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 250, "h": 276 },
+      "sourceSize": { "w": 250, "h": 276 }
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "braunBagSprite.png",
+    "format": "RGBA8888",
+    "size": { "w": 250, "h": 552 },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:cdb579b61e08f54827d667df3368c7e2:548d18de52097e6b444c24a3e4ec6e3a:0ce90e8b5e028c18c6b4be930dbb98e3$"
+  }
+}

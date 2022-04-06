@@ -1,0 +1,37 @@
+{
+  "frames": [
+    {
+      "filename": "man1",
+      "frame": { "x": 0, "y": 0, "w": 394, "h": 900 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 394, "h": 900 },
+      "sourceSize": { "w": 394, "h": 900 }
+    },
+    {
+      "filename": "man2",
+      "frame": { "x": 394, "y": 0, "w": 394, "h": 900 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 394, "h": 900 },
+      "sourceSize": { "w": 394, "h": 900 }
+    },
+    {
+      "filename": "man3",
+      "frame": { "x": 788, "y": 0, "w": 394, "h": 900 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 394, "h": 900 },
+      "sourceSize": { "w": 394, "h": 900 }
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "man.png",
+    "format": "RGBA8888",
+    "size": { "w": 1182, "h": 900 },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:35a3cd4c6bac472f48645f9ee32020fa:bf2d576e49b365488ff83426fc9edf5a:7cb16ae2a7812a83bde2d0f7d63f713f$"
+  }
+}

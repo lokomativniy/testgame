@@ -1,0 +1,37 @@
+{
+  "frames": [
+    {
+      "filename": "emotion1",
+      "frame": { "x": 0, "y": 0, "w": 317, "h": 900 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 317, "h": 900 },
+      "sourceSize": { "w": 317, "h": 900 }
+    },
+    {
+      "filename": "emotion3",
+      "frame": { "x": 317, "y": 0, "w": 317, "h": 900 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 317, "h": 900 },
+      "sourceSize": { "w": 317, "h": 900 }
+    },
+    {
+      "filename": "emotion2",
+      "frame": { "x": 634, "y": 0, "w": 317, "h": 900 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 317, "h": 900 },
+      "sourceSize": { "w": 317, "h": 900 }
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "emotionFlirty.png",
+    "format": "RGBA8888",
+    "size": { "w": 951, "h": 900 },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:f1c06ca53e566a9164f0e098d7dde731:b9a983b395cec33581c60ca905bbba70:26cfbc5ed8bd17fb3b65c48763751ab4$"
+  }
+}

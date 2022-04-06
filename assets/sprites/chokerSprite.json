@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "choperSprite.png",
+	"frame": {"x":0,"y":0,"w":251,"h":276},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":251,"h":276},
+	"sourceSize": {"w":251,"h":276}
+},
+{
+	"filename": "choperSpriteHover.png",
+	"frame": {"x":0,"y":276,"w":251,"h":276},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":251,"h":276},
+	"sourceSize": {"w":251,"h":276}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "choperSprite.png",
+	"format": "RGBA8888",
+	"size": {"w":251,"h":552},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bac62061f3053a5b325cde0c3e956420:3ec3eae89d0f0c785903df7cfed2df04:481288fb8eda65cbfd3718f4a0c69126$"
+}
+}

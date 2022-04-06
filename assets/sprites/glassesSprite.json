@@ -1,0 +1,29 @@
+{
+  "frames": [
+    {
+      "filename": "glasses.png",
+      "frame": { "x": 0, "y": 0, "w": 250, "h": 276 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 250, "h": 276 },
+      "sourceSize": { "w": 250, "h": 276 }
+    },
+    {
+      "filename": "glassesHover.png",
+      "frame": { "x": 0, "y": 276, "w": 250, "h": 276 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 250, "h": 276 },
+      "sourceSize": { "w": 250, "h": 276 }
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "glassesSprite.png",
+    "format": "RGBA8888",
+    "size": { "w": 250, "h": 552 },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:e9d4e05a39c8805d673d149128242770:d5e94a5c0837e77ff1041780bf305ab4:0e80ac24be950c7e5425ef93e2dc71e6$"
+  }
+}

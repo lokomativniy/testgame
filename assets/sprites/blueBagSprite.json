@@ -1,0 +1,29 @@
+{
+  "frames": [
+    {
+      "filename": "bluebag1",
+      "frame": { "x": 0, "y": 0, "w": 250, "h": 276 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 250, "h": 276 },
+      "sourceSize": { "w": 250, "h": 276 }
+    },
+    {
+      "filename": "bluebag2",
+      "frame": { "x": 0, "y": 276, "w": 250, "h": 276 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 250, "h": 276 },
+      "sourceSize": { "w": 250, "h": 276 }
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "blueBagSprite.png",
+    "format": "RGBA8888",
+    "size": { "w": 250, "h": 552 },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:cc6ed56f5f0e30f2a3e4b9a764636715:398916f1ca500564ae77d2c5dabf2ade:16879381c9334898bac2ff96e11bd66a$"
+  }
+}

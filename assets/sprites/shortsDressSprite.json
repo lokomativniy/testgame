@@ -1,0 +1,29 @@
+{
+  "frames": [
+    {
+      "filename": "shortsDress1",
+      "frame": { "x": 0, "y": 0, "w": 250, "h": 276 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 250, "h": 276 },
+      "sourceSize": { "w": 250, "h": 276 }
+    },
+    {
+      "filename": "shortsDress2",
+      "frame": { "x": 0, "y": 276, "w": 250, "h": 276 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 250, "h": 276 },
+      "sourceSize": { "w": 250, "h": 276 }
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "shortsDressSprite.png",
+    "format": "RGBA8888",
+    "size": { "w": 250, "h": 552 },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:85a6ee79f52648cb922903d00a90f753:9eb4cc02a94eec9314c769ba62d9a554:976d47c7aa9c4cd524dbb09016ae59b2$"
+  }
+}

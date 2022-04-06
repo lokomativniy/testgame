@@ -1,0 +1,37 @@
+{
+  "frames": [
+    {
+      "filename": "makeup1",
+      "frame": { "x": 0, "y": 0, "w": 229, "h": 376 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 229, "h": 376 },
+      "sourceSize": { "w": 229, "h": 376 }
+    },
+    {
+      "filename": "makeup2",
+      "frame": { "x": 0, "y": 376, "w": 229, "h": 376 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 229, "h": 376 },
+      "sourceSize": { "w": 229, "h": 376 }
+    },
+    {
+      "filename": "makeup3",
+      "frame": { "x": 0, "y": 752, "w": 229, "h": 376 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 229, "h": 376 },
+      "sourceSize": { "w": 229, "h": 376 }
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "emotionLensesSprite.png",
+    "format": "RGBA8888",
+    "size": { "w": 229, "h": 1128 },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:3bef7cf1f911a3925e9df7d274c53678:fbb9cee3851a9b7bca77d1472108fa6f:e873c7c21a5771d253eae101325e06e0$"
+  }
+}

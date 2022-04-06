@@ -1,0 +1,109 @@
+{
+  "frames": [
+    {
+      "filename": "roses1",
+      "frame": { "x": 0, "y": 0, "w": 477, "h": 523 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 477, "h": 523 },
+      "sourceSize": { "w": 477, "h": 523 }
+    },
+    {
+      "filename": "roses2",
+      "frame": { "x": 477, "y": 0, "w": 477, "h": 523 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 477, "h": 523 },
+      "sourceSize": { "w": 477, "h": 523 }
+    },
+    {
+      "filename": "roses3",
+      "frame": { "x": 954, "y": 0, "w": 477, "h": 523 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 477, "h": 523 },
+      "sourceSize": { "w": 477, "h": 523 }
+    },
+    {
+      "filename": "roses4",
+      "frame": { "x": 1431, "y": 0, "w": 477, "h": 523 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 477, "h": 523 },
+      "sourceSize": { "w": 477, "h": 523 }
+    },
+    {
+      "filename": "roses5",
+      "frame": { "x": 0, "y": 523, "w": 477, "h": 523 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 477, "h": 523 },
+      "sourceSize": { "w": 477, "h": 523 }
+    },
+    {
+      "filename": "roses6",
+      "frame": { "x": 477, "y": 523, "w": 477, "h": 523 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 477, "h": 523 },
+      "sourceSize": { "w": 477, "h": 523 }
+    },
+    {
+      "filename": "roses7",
+      "frame": { "x": 954, "y": 523, "w": 477, "h": 523 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 477, "h": 523 },
+      "sourceSize": { "w": 477, "h": 523 }
+    },
+    {
+      "filename": "roses8",
+      "frame": { "x": 1431, "y": 523, "w": 477, "h": 523 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 477, "h": 523 },
+      "sourceSize": { "w": 477, "h": 523 }
+    },
+    {
+      "filename": "roses9",
+      "frame": { "x": 0, "y": 1046, "w": 477, "h": 523 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 477, "h": 523 },
+      "sourceSize": { "w": 477, "h": 523 }
+    },
+    {
+      "filename": "roses10",
+      "frame": { "x": 477, "y": 1046, "w": 477, "h": 523 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 477, "h": 523 },
+      "sourceSize": { "w": 477, "h": 523 }
+    },
+    {
+      "filename": "roses11",
+      "frame": { "x": 954, "y": 1046, "w": 477, "h": 523 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 477, "h": 523 },
+      "sourceSize": { "w": 477, "h": 523 }
+    },
+    {
+      "filename": "roses12",
+      "frame": { "x": 1431, "y": 1046, "w": 477, "h": 523 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 477, "h": 523 },
+      "sourceSize": { "w": 477, "h": 523 }
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "rosesSprite.png",
+    "format": "RGBA8888",
+    "size": { "w": 1908, "h": 1569 },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:d41605958523f75bd6323ae2e39b2140:9ceef62a4c9264b2388757a76f9fba0d:201c94179157ec387128b6b7bc72fb0c$"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "frames": [
+    {
+      "filename": "makeup1",
+      "frame": { "x": 0, "y": 0, "w": 229, "h": 376 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 229, "h": 376 },
+      "sourceSize": { "w": 229, "h": 376 }
+    },
+    {
+      "filename": "makeup2",
+      "frame": { "x": 0, "y": 376, "w": 229, "h": 376 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 229, "h": 376 },
+      "sourceSize": { "w": 229, "h": 376 }
+    },
+    {
+      "filename": "makeup3",
+      "frame": { "x": 0, "y": 752, "w": 229, "h": 376 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 229, "h": 376 },
+      "sourceSize": { "w": 229, "h": 376 }
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "emotionMakeup.png",
+    "format": "RGBA8888",
+    "size": { "w": 229, "h": 1128 },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:7df610fdb9a6db3b5ae5630dd84c535a:f7a85a0b90ae7e3e43411d5c015e608f:319551ca1a2343d9017c2478089d030a$"
+  }
+}

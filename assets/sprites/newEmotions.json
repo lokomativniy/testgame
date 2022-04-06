@@ -1,0 +1,37 @@
+{
+  "frames": [
+    {
+      "filename": "heademotion2",
+      "frame": { "x": 0, "y": 0, "w": 229, "h": 376 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 229, "h": 376 },
+      "sourceSize": { "w": 229, "h": 376 }
+    },
+    {
+      "filename": "heademotion3",
+      "frame": { "x": 0, "y": 376, "w": 229, "h": 376 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 229, "h": 376 },
+      "sourceSize": { "w": 229, "h": 376 }
+    },
+    {
+      "filename": "heademotion1",
+      "frame": { "x": 0, "y": 752, "w": 229, "h": 376 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 229, "h": 376 },
+      "sourceSize": { "w": 229, "h": 376 }
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "newEmotions.png",
+    "format": "RGBA8888",
+    "size": { "w": 229, "h": 1128 },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:197a3dd2b121fdcc97457ec7159b2cd6:8bc4c5c98184445d8b110fd0be9036d2:6707d739a6573a53f148ae95e51eaf7d$"
+  }
+}

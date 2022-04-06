@@ -1,0 +1,29 @@
+{
+  "frames": [
+    {
+      "filename": "necklace",
+      "frame": { "x": 0, "y": 0, "w": 250, "h": 276 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 250, "h": 276 },
+      "sourceSize": { "w": 250, "h": 276 }
+    },
+    {
+      "filename": "necklaceHover",
+      "frame": { "x": 0, "y": 276, "w": 250, "h": 276 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 250, "h": 276 },
+      "sourceSize": { "w": 250, "h": 276 }
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "necklaceSprite.png",
+    "format": "RGBA8888",
+    "size": { "w": 250, "h": 552 },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:08a173a68e793a129aeb2c1524388d14:3e61b27b8db78a0f7c5ec0eabd5d8f7d:882b73fdcb37207949000f5ed369def9$"
+  }
+}
