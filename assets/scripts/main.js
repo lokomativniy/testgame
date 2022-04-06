@@ -7,7 +7,6 @@ const config = {
   },
   scene: [new GameScene()],
 };
-
 const game = new Phaser.Game(config);
 window.focus();
 window.dataLayer = window.dataLayer || [];
