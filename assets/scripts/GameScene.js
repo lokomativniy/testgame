@@ -357,6 +357,7 @@ class GameScene extends Phaser.Scene {
       duration: 250,
     });
     this.topBar = this.add.sprite(300, 30, "topBar").setScale(0);
+
     this.getDressSprite();
 
     this.tweens.add({
@@ -435,7 +436,7 @@ class GameScene extends Phaser.Scene {
       this.pinkDressSprite.destroy();
       this.shortsDressSprite.destroy();
       this.pinkDressSprite2 = this.add
-        .sprite(150, 750, "pinkDressHover")
+        .sprite(150, 750, "pinkDressSprite")
         .setScale(0.95);
       this.tweens.add({
         targets: this.pinkDressSprite2,
@@ -459,7 +460,7 @@ class GameScene extends Phaser.Scene {
       this.shortsDressSprite.destroy();
       this.pinkDressSprite.destroy();
       this.shortsDressSprite2 = this.add
-        .sprite(450, 750, "shortsDressHover")
+        .sprite(450, 750, "shortsDressSprite")
         .setScale(0.95);
       this.tweens.add({
         targets: this.shortsDressSprite,
@@ -539,7 +540,7 @@ class GameScene extends Phaser.Scene {
 
       this.blueBagSprite.destroy();
       this.blueBagSprite2 = this.add
-        .sprite(150, 750, "blueBagHover")
+        .sprite(150, 750, "blueBagSprite")
         .setScale(0.95);
       this.tweens.add({
         targets: this.blueBagSprite2,
@@ -574,7 +575,7 @@ class GameScene extends Phaser.Scene {
       this.braunBagSprite.destroy();
       this.blueBagSprite.destroy();
       this.braunBagSprite2 = this.add
-        .sprite(450, 750, "braunBagHover")
+        .sprite(450, 750, "braunBagSprite")
         .setScale(0.95);
       this.tweens.add({
         targets: this.braunBagSprite2,
@@ -666,7 +667,7 @@ class GameScene extends Phaser.Scene {
       this.necklaceSprite.destroy();
       this.chokerSprite.destroy();
       this.necklaceSprite2 = this.add
-        .sprite(450, 750, "necklaceHover")
+        .sprite(450, 750, "necklaceSprite")
         .setScale(0.95);
       this.tweens.add({
         targets: this.necklaceSprite2,
@@ -712,7 +713,7 @@ class GameScene extends Phaser.Scene {
       this.chokerSprite.destroy();
       this.necklaceSprite.destroy();
       this.chokerSprite2 = this.add
-        .sprite(150, 750, "choperSpriteHover")
+        .sprite(150, 750, "chokerSprite")
         .setScale(0.95);
       this.tweens.add({
         targets: this.chokerSprite2,
