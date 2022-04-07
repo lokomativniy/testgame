@@ -5,7 +5,7 @@ const config = {
     width: 600,
     height: 900,
   },
-  scene: [new GameScene()],
+  scene: new GameScene(),
 };
 const game = new Phaser.Game(config);
 window.focus();
