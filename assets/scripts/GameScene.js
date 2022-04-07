@@ -187,7 +187,7 @@ class GameScene extends Phaser.Scene {
     }
   }
 
-  ////////  create   ///////
+  //////////////  create   //////////////
 
   create() {
     this.getBackGround();
@@ -199,7 +199,7 @@ class GameScene extends Phaser.Scene {
     this.timedEvent1 = this.time.delayedCall(2000, this.eventIntro1, [], this);
   }
 
-  /////////////////////////////
+  ///////////////    intro    //////////////
 
   eventIntro1() {
     this.lexy.destroy();
@@ -967,8 +967,5 @@ class GameScene extends Phaser.Scene {
     });
   }
 
-  update() {
-    // this.cursorHand.x = game.input.mousePointer.x;
-    // this.cursorHand.y = game.input.mousePointer.y;
-  }
+  update() {}
 }

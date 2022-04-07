@@ -8,10 +8,3 @@ const config = {
   scene: new GameScene(),
 };
 const game = new Phaser.Game(config);
-window.focus();
-window.dataLayer = window.dataLayer || [];
-function gtag() {
-  dataLayer.push(arguments);
-}
-gtag("js", new Date());
-gtag("config", "UA-30485283-26");
